@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-site",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.0.0",
+>>>>>>> 48d91edf9573c9ee536f47d8b13f49124dc114ed
   "title": "Semantic UI - Site",
   "description": "Single component release of site",
   "homepage": "http://www.semantic-ui.com",
