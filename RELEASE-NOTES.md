@@ -1,3 +1,16 @@
+### Version 1.2.0 - December 08, 2014
+
+- **Fonts** - Add font subset variable for ``site.variables`` **Thanks gabormeszoly**
+- Theme.config.example now links to final site folder
+
+### Version 1.1.0 - December 02, 2014
+
+- **Popup** - Popup now has a ``settings.prefer`` that defaults to ``adjacent``. This setting sets prefered next placement when a popup cannot fit on screen in the chosen placement. ``prefer`` can also be set to ``opposite`` to prefer the same position on the opposite side
+
+### Version 1.0.1 - November 28, 2014
+
+- **Site** - Add protocol variable for Google Font loader to avoid issues with ``//`` when loading locally causing freezing
+
 ### Version 1.0.0 - November 24, 2014
 
 - **Popup** - Positioned popups will now extend in the opposite direction to fit better with floated content
