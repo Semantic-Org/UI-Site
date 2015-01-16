@@ -152,7 +152,7 @@ $.site = module.exports = function(parameters) {
             $.fn[name].settings[setting] = value;
             if(modifyExisting && namespace) {
               $existingModules = $(':data(module-' + namespace + ')');
-              if($existingModules.size() > 0) {
+              if($existingModules.length > 0) {
                 module.verbose('Modifying existing settings', $existingModules);
                 $existingModules[name]('setting', setting, value);
               }
@@ -178,7 +178,7 @@ $.site = module.exports = function(parameters) {
             $.extend(true, $.fn[name].settings, newSettings);
             if(modifyExisting && namespace) {
               $existingModules = $(':data(module-' + namespace + ')');
-              if($existingModules.size() > 0) {
+              if($existingModules.length > 0) {
                 module.verbose('Modifying existing settings', $existingModules);
                 $existingModules[name]('setting', newSettings);
               }

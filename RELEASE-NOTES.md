@@ -1,3 +1,12 @@
+### Version 1.7.0 - January 14, 2015
+
+- **Site** - Form input highlighting color added (helps differentiate form colors with autocompleted fields). Default text highlighting color moved from highlighter yellow to a mellow blue.
+
+### Version 1.6.2 - January 06, 2015
+
+**Site Variables**
+- **Site** - EM values for `small` `large` etc are now all calculated from ``@emSize`` allowing you to only change one variable.
+
 ### Version 1.2.0 - December 08, 2014
 
 - **Fonts** - Add font subset variable for ``site.variables`` **Thanks gabormeszoly**
