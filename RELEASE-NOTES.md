@@ -1,7 +1,16 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> dbf8b6261b0bd2d0c7f3d9059e5bee4fec2b28e4
 ### Version 1.8.0 - January 23, 2015
 
 - **Header** - Content headers now inherit `@h1-h6` sizes from `site.variables`
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 61897d33ba19ad5d49e546ce6c7ce7615aa5728e
+>>>>>>> dbf8b6261b0bd2d0c7f3d9059e5bee4fec2b28e4
 ### Version 1.7.0 - January 14, 2015
 
 - **Site** - Form input highlighting color added (helps differentiate form colors with autocompleted fields). Default text highlighting color moved from highlighter yellow to a mellow blue.

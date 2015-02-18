@@ -1,0 +1,27 @@
+{
+  "name": "semantic/site",
+  "description": "Single component release of site",
+  "homepage": "http://www.semantic-ui.com",
+  "authors": [{
+    "name": "Jack Lukic",
+    "email": "jacklukic@gmail.com",
+    "web": "http://www.jacklukic.com",
+    "role": "Creator"
+  }],
+  "keywords": [
+    "semantic",
+    "ui",
+    "css",
+    "framework"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "x.x.x"
+  },
+  "main": "site.js",
+<<<<<<< HEAD
+  "version": "1.0.0-beta"
+=======
+  "version": "1.7.2"
+>>>>>>> 61897d33ba19ad5d49e546ce6c7ce7615aa5728e
+}
