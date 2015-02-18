@@ -1,5 +1,9 @@
  /*
+<<<<<<< HEAD
  * # Semantic UI - 1.9.0
+=======
+ * # Semantic UI - 1.7.2
+>>>>>>> 61897d33ba19ad5d49e546ce6c7ce7615aa5728e
  * https://github.com/Semantic-Org/Semantic-UI
  * http://www.semantic-ui.com/
  *

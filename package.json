@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-site",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> 61897d33ba19ad5d49e546ce6c7ce7615aa5728e
   "title": "Semantic UI - Site",
   "description": "Single component release of site",
   "homepage": "http://www.semantic-ui.com",
@@ -8,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Semantic-Org/UI-Site.git"
+    "url": "https://github.com/Semantic-Org/UI-Site.git"
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
