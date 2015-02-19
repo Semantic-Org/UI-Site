@@ -5,7 +5,7 @@ var
 Package.describe({
   name    : 'semantic:ui-site',
   summary : 'Semantic UI - Site (official): Single component release of site',
-  version : '1.9.0',
+  version : '1.9.2',
   git     : 'git://github.com/Semantic-Org/UI-Site.git',
 });
 
