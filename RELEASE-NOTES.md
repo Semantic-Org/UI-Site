@@ -1,3 +1,7 @@
+### Version 1.10.0 - February 23, 2015
+
+- **Build Tools** - Fixed issue with recursive merge for site themes in update scripts, [details here](https://github.com/Semantic-Org/Semantic-UI/pull/1845) Thanks @derekslife
+
 ### Version 1.8.0 - January 23, 2015
 
 - **Header** - Content headers now inherit `@h1-h6` sizes from `site.variables`
