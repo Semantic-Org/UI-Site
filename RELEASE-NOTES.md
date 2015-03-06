@@ -1,3 +1,7 @@
+### Version 1.11.2 - March 6, 2015
+
+- **Site** - `h1-h5` now have no top margin when `first-child` and no bottom margin when `last-child`
+
 ### Version 1.10.0 - February 23, 2015
 
 - **Build Tools** - Fixed issue with recursive merge for site themes in update scripts, [details here](https://github.com/Semantic-Org/Semantic-UI/pull/1845) Thanks @derekslife
