@@ -1,3 +1,7 @@
+### Version 1.11.5 - March 23, 2015
+
+- **Build Tools** - Adjusting site.variables will now rebuild all UI, instead of just site.less
+
 ### Version 1.11.2 - March 6, 2015
 
 - **Site** - `h1-h5` now have no top margin when `first-child` and no bottom margin when `last-child`
