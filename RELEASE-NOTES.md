@@ -1,3 +1,7 @@
+### Version 1.11.8 - April 13, 2015
+
+- **Build Tools** - Fixed `npm install` without `semantic.json` to merge changes with site theme and packaged themes in a similar fashion to `npm update`
+
 ### Version 1.11.5 - March 23, 2015
 
 - **Build Tools** - Adjusting site.variables will now rebuild all UI, instead of just site.less
