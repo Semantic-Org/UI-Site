@@ -1,3 +1,20 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Site** - Added new colors `olive`, `violet`, `brown` and `grey`. These are available in all elements with color variations.  **Thanks @lemartialou**
+- **Site** - Added many new site variables, including the ability to control input size across all UI `inputPadding`, along with more border colors, accents, and colors.
+- **Build Tools** - Adjusting `site.variables` will now rebuild all UI, instead of just `site.less`
+- **Site** - Fixed mixed globals `@defaultDuration` and `@transitionDuration` usage to use a single variable across all UI `@defaultDuration`, the same for `@defaultEasing` and `@transitionEasing`
+- **Site** - Added in `pageOverflowX` variable, default theme hides horizontal scrollbars on `body`
+- **Site** - Added default `focus` colors for all color variations
+- **Site** - All floating/raised variations now inherit from a global `@floatedShadow` making theming easier
+- **Form** - Form sizes and input sizes now inherit from `site.variables`
+- **Message** - Message now uses `@lineHeight` from `site.variables`
+- **Header/Table/Divider** - These components now pull border color defaults from `site.variables` instead of using their own values
+- **Site** - Additional font variables have been added to site to help clarify variable purpose.
+- **Site** - Increase contrast on default hovered/down colors for colored variations
+- **Site** - Page background is now `#FFFFFF` by default instead of an offwhite `#F7F7F7`
+- **Site** - Adjusted global line height to the closest even pixel value
+
 ### Version 1.11.8 - April 13, 2015
 
 - **Build Tools** - Fixed `npm install` without `semantic.json` to merge changes with site theme and packaged themes in a similar fashion to `npm update`
