@@ -1,3 +1,7 @@
+### Version 2.0.2 - July 7, 2015
+
+- **Site** - Sizing variables now are relative to `@emSize` adjusting all sizing variationss proportionately as `@emSize` changes [#2538](https://github.com/Semantic-Org/Semantic-UI/issues/2538)
+
 ### Version 2.0.0 - June 30, 2015
 
 - **Site** - Added new colors `olive`, `violet`, `brown` and `grey`. These are available in all elements with color variations.  **Thanks @lemartialou**
