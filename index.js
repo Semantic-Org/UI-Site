@@ -1,5 +1,5 @@
 /*!
- * # Semantic UI 2.0.7 - Site
+ * # Semantic UI 2.0.8 - Site
  * http://github.com/semantic-org/semantic-ui/
  *
  *
@@ -10,8 +10,8 @@
  */
 ;(function ( $, window, document, undefined ) {
 
-$.site = var _module = module;
-module.exports = function(parameters) {
+var _module = module;
+$.site = module.exports = function(parameters) {
   var
     time           = new Date().getTime(),
     performance    = [],
