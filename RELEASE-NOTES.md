@@ -1,3 +1,8 @@
+#### Features
+
+- **Button** - `colored basic` button are now colored before `:hover` in the default theme, this is more in line with common usage across other websites.
+- **Site** - Added global variable `@focusedFormBorderColor` for controlling form focus border color
+
 ### Version 2.0.2 - July 7, 2015
 
 - **Site** - Sizing variables now are relative to `@emSize` adjusting all sizing variationss proportionately as `@emSize` changes [#2538](https://github.com/Semantic-Org/Semantic-UI/issues/2538)
