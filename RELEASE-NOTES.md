@@ -1,3 +1,7 @@
+### Version 2.1.4 - Sep 13, 2015
+
+- **Build** - Fixed issue where using a packaged theme without a `site.variables` would cause build to fail [#3009](https://github.com/Semantic-Org/Semantic-UI/issues/3009) [#3010](https://github.com/Semantic-Org/Semantic-UI/issues/3010)
+
 #### Features
 
 - **Button** - `colored basic` button are now colored before `:hover` in the default theme, this is more in line with common usage across other websites.
