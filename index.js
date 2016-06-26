@@ -1,14 +1,14 @@
 /*!
- * # Semantic UI 2.1.7 - Site
+ * # Semantic UI 2.2.0 - Site
  * http://github.com/semantic-org/semantic-ui/
  *
  *
- * Copyright 2015 Contributors
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
  *
  */
-;(function ( $, window, document, undefined ) {
+
+;(function ($, window, document, undefined) {
 
 var _module = module;
 $.site = module.exports = function(parameters) {

@@ -1,3 +1,8 @@
+### Version 2.2.0 - June 26, 2016
+
+- **Site** - Added colored box shadow defaults. `ui message` now includes individual colored border shadows based on new site defaults.
+- **Site** - Added new `@inputColor` and `@inputPlaceholderColor` global variables that now control placeholder text styles across all components.
+
 ### Version 2.1.4 - Sep 13, 2015
 
 - **Build** - Fixed issue where using a packaged theme without a `site.variables` would cause build to fail [#3009](https://github.com/Semantic-Org/Semantic-UI/issues/3009) [#3010](https://github.com/Semantic-Org/Semantic-UI/issues/3010)
@@ -9,7 +14,7 @@
 
 ### Version 2.0.2 - July 7, 2015
 
-- **Site** - Sizing variables now are relative to `@emSize` adjusting all sizing variationss proportionately as `@emSize` changes [#2538](https://github.com/Semantic-Org/Semantic-UI/issues/2538)
+- **Site** - Sizing variables now are relative to `@emSize` adjusting all sizing variations proportionately as `@emSize` changes [#2538](https://github.com/Semantic-Org/Semantic-UI/issues/2538)
 
 ### Version 2.0.0 - June 30, 2015
 
