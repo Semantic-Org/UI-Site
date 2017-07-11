@@ -1,3 +1,7 @@
+### Version 2.2.11 - July 11, 2017
+
+- **Site** - Site now includes custom styles for in-page UI scrollbars (but not actual page scrollbar) by default in WebKit/Chrome. Components with inverted content like dimmer include an inverted scrollbar.  You can disable this by setting `@useCustomScrollbars: false` in your `site.variables`
+
 ### Version 2.2.0 - June 26, 2016
 
 - **Site** - Added colored box shadow defaults. `ui message` now includes individual colored border shadows based on new site defaults.
