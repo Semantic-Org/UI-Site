@@ -1,3 +1,7 @@
+### Version 2.4.0 - Sep 17, 2018
+
+> `2.4.0` includes a new component `placeholder`. To use this component in your existing SUI site, be sure to add `@placeholder: 'default';` to your `theme.config`. You can see an example in `theme.config.example`
+
 ### Version 2.2.14 - Jan 29, 2018
 
 - **Site** - Site theme now includes `@customScrollbarHeight` and specifies a default horizontal scrollbar height **Thanks @jayphelps** [#5749](https://github.com/Semantic-Org/Semantic-UI/issues/5749)
