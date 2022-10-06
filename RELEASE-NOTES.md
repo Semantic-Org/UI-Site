@@ -1,3 +1,7 @@
+### Version 2.5.0 - Oct 6, 2022
+
+- **Theme** - Allow site's global site theme to be missing #6876 **Thanks @cruzdanillo**
+
 ### Version 2.4.0 - Sep 17, 2018
 
 > `2.4.0` includes a new component `placeholder`. To use this component in your existing SUI site, be sure to add `@placeholder: 'default';` to your `theme.config`. You can see an example in `theme.config.example`
